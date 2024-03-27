@@ -1,0 +1,5 @@
+/.idea/
+/target/
+/.gitlab-ci.yml
+/checkstyle.xml
+/pom.xml
